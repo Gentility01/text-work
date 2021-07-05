@@ -1,0 +1,4 @@
+print=("praise")
+print=("ritadel montessori school")
+my_list=["praise","mango","pineapple","apple",10,12]
+my_list=["rice","beans","plantain",[1,2,3]]
